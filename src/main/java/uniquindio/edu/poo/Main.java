@@ -673,3 +673,7 @@ public class Main {
     }
 
 }
+
+  public void TipoMembresia (String mensaje){
+    
+  }

@@ -1,6 +1,10 @@
 
 package uniquindio.edu.poo.model;
+<<<<<<< Updated upstream
 import java.time.LocalTime;
+=======
+import java.time.LocalDateTime;
+>>>>>>> Stashed changes
 import java.util.ArrayList;
 import java.util.List;
 
